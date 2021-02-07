@@ -14,7 +14,7 @@ pdfdrop.app is made with these fine open source technologies:
 - [filesize](https://github.com/avoidwork/filesize.js) human-readble size 
 - [mousetrap](https://github.com/ccampbell/mousetrap) shortcut handling
 - [download](https://github.com/rndme/download) downloading edited file
-- [Material design icons](material-design-icons)
+- [Material design icons](https://github.com/google/material-design-icons)
 - [Reenie Beanie](https://fonts.google.com/specimen/Reenie+Beanie) signature font
 - [workbox](https://github.com/GoogleChrome/workbox) Service worker and offline usage
 
