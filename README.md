@@ -4,6 +4,11 @@ A repository for issues and feedback for https://pdfdrop.app.
 
 [<img src="about.jpg" width="650" title="pdfdrop.app">](https://pdfdrop.app)
 
+### What's not supported (possible TODOs)
+- Scribble signatures
+- More signature fonts
+- Text search
+- Other file formats / conversions (must be PDF file)
 
 ## Toolchain
 pdfdrop.app is made with these fine open source technologies:
