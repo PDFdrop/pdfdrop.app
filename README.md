@@ -24,7 +24,7 @@ pdfdrop.app is made with these fine open source technologies:
 - [workbox](https://github.com/GoogleChrome/workbox) Service worker and offline usage
 
 ## Other online PDF solutions
-These services require various combinations of:
+These services require various combinations of::
 
     - paid service
     - account creation (even for free use)
