@@ -1,0 +1,42 @@
+{
+  "name": "pdfdrop",
+  "version": "0.52.0",
+  "description": "Fill any PDF privately, securely",
+  "keywords": [
+    "pdf",
+    "fill",
+    "form",
+    "edit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PDFdrop/pdfdrop.app"
+  },
+  "peerDependencies": {
+    "pdf.js": "https://github.com/mozilla/pdf.js.git",
+    "pdfjs-dist": "^2.6.347",
+    "pdf-lib": "^1.16.0",
+    "materialize-css": "^1.0.0",
+    "interactjs": "^1.10.3",
+    "filesize": "^6.1.0",
+    "mousetrap": "^1.6.5",
+    "downloadjs": "^1.4.7",
+    "material-design-icons": "https://github.com/google/material-design-icons"
+  },
+  "devDependencies": {
+    "chokidar": "^3.5.0",
+    "concurrently": "^5.3.0",
+    "esbuild": "^0.8.32",
+    "html-minifier": "^4.0.0",
+    "http-server": "^0.12.3",
+    "husky": "^4.3.8",
+    "live-server": "^1.2.1",
+    "md5-file": "^5.0.0",
+    "node-watch": "^0.7.1",
+    "replace-in-file": "^6.1.0"
+  },
+  "dependencies": {
+    "workbox-google-analytics": "^6.1.0",
+    "workbox-recipes": "^6.1.0"
+  }
+}
